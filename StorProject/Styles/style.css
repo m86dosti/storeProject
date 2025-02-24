@@ -1,0 +1,12 @@
+* {
+  font-family: Yekan, Arial;
+  direction: rtl;
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+@font-face {
+  font-family: Yekan;
+  src: url(../Fonts/Yekan.ttf);
+}
